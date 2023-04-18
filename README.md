@@ -10,7 +10,7 @@ Sou formanda em Matemática com enfase em Matemática Computacional pela Univers
 
 ## Mais informações sobre minha trajetória você encontra aqui:
 [Linkedin](https://www.linkedin.com/in/daianagomes/) </br>
-[Curriculo Lattes](http://lattes.cnpq.br/2831690283116015Oi)</br>
+[Curriculo Lattes](http://lattes.cnpq.br/2831690283116015)</br>
 
 
 
