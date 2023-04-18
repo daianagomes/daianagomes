@@ -3,7 +3,7 @@
 
 
 ## Sobre mim:
-Desenvolvedora de Software com 1 ano e 11 meses de experiência profissinal, gosto de trabalhar com Java e sempre estou buscando aprender coisas novas;
+Desenvolvedora de Software com 1 ano e 11 meses de experiência profissinal, e sempre estou buscando aprender coisas novas;
 
 Sou formanda em Matemática com enfase em Matemática Computacional pela Universidade Federal Fluminense - ICEX Volta Redonda e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UNINTER.
 
